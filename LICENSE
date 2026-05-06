@@ -12,6 +12,42 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
+For the avoidance of doubt, this License applies only to the source code,
+layout, and interface of this repository. It does not apply to the original
+government document, terminology, indicators, or technical guidance content
+issued by the Ministry of Agrarian Affairs and Spatial Planning/National Land
+Agency of the Republic of Indonesia (ATR/BPN RI), Directorate General of Land
+and Spatial Control and Enforcement.
+
+The source content is derived from the publicly available technical guidance
+document:
+
+Number: 1/Juklak-700.32.1.MR.02.01/IV/2026
+Date: 16 April 2026
+
+The original document, terminology, indicators, and technical guidance content
+remain the property and authority of ATR/BPN RI. This repository does not claim
+ownership over the original government document.
+
+--------------------------------------------------------------------------------------------
+
+Untuk menghindari keraguan, Lisensi ini hanya berlaku untuk kode sumber, tata
+letak, dan antarmuka dalam repositori ini. Lisensi ini tidak berlaku untuk
+dokumen resmi asli, nomenklatur, indikator, atau substansi teknis yang
+diterbitkan oleh Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional
+Republik Indonesia (ATR/BPN RI), Direktorat Jenderal Pengendalian dan
+Penertiban Tanah dan Ruang.
+
+Konten sumber disusun berdasarkan dokumen petunjuk pelaksanaan/petunjuk teknis
+yang tersedia untuk umum:
+
+Nomor: 1/Juklak-700.32.1.MR.02.01/IV/2026
+Tanggal: 16 April 2026
+
+Dokumen asli, nomenklatur, indikator, dan substansi teknis tetap menjadi milik
+dan kewenangan ATR/BPN RI. Repositori ini tidak mengklaim kepemilikan atas
+dokumen resmi tersebut.
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
